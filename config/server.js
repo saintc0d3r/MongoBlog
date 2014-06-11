@@ -1,5 +1,5 @@
 module.exports = {
-	"express"  = {
-		"port" = 3000;
+	"express"  : {
+		"port" : 3000
 	}
 };
